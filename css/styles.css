@@ -36,3 +36,11 @@ li a {
 .featured {
     margin-bottom: 60px;
 }
+
+a.text-uppercase {
+    background-color: #eeddcd;
+}
+
+div.img-box {
+    background-color: #eeddcd;
+}
